@@ -8,7 +8,6 @@ I am Thingkilia Finnatia Husin, but usually, people call me Thing. I am studying
     
     
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thingkilia2507&theme=algolia" align="right"/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
 <!--
 **thingkilia2507/thingkilia2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
