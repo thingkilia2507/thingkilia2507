@@ -2,6 +2,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thingkilia2507&hide=html,css,javascript&theme=merko"  align="right"/>
 I am Thingkilia Finnatia Husin, but usually, people call me Thing. I am studying in STMIK Global Informatika, Palembang City (My Hometown), South Sumatera. My major is Information Technology (people also know it as Computer Science).
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thingkilia2507&hide=html,css,javascript&theme=merko"  align="right"/>
+
 🌱 I’m currently learning Kotlin and Android Programming in Bangkit 2021
 📫 How to reach me: 
     Send me an Email : thingkiliafinnatia@rocketmail.com
