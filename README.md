@@ -1,6 +1,6 @@
 ### Hi, nice to meet you 😄👋
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thingkilia2507&theme=morko" align="left/>
-<img src="https://github-readme-stats.vercel.app/api?username=thingkilia2507&show_icons=true&theme=algolia"  align="right"/>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thingkilia2507&theme=morko" align="left"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=thingkilia2507&show_icons=true&theme=algolia" align="right"/>
 I am Thingkilia Finnatia Husin, but usually, people call me Thing. I am studying in STMIK Global Informatika, Palembang City (My Hometown), South Sumatera. My major is Information Technology (people also know it as Computer Science).
 
 🌱 I’m currently learning Kotlin and Android Programming in Bangkit 2021
