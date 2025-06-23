@@ -3,7 +3,7 @@ I am Thingkilia Finnatia Husin, but usually, people call me Thing. I am studying
 
 🌱 I’m currently learning Kotlin and Android Programming in Bangkit 2021
 📫 How to reach me: 
-    Send me an Email : thingkiliafinnatia@rocketmail.com
+    Send me an Email : thingkiliafinnatia@gmail.com
     
  
 <img src ="https://github-readme-stats.vercel.app/api?username=thingkilia2507&show_icons=true&theme=algolia" align="left"/>   
